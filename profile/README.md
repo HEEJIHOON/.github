@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/HEEJIHOON/rululala/main/assets/wordmark-on-white.png" alt="rululala." width="360">
+</p>
+
 # rululala
 
 **make friends across the world**
