@@ -1,12 +1,15 @@
-## Hi there 👋
+# rululala
 
-<!--
+**make friends across the world**
 
-**Here are some ideas to get you started:**
+낯선 여행지에서 만나는 동네 친구.
+전 세계 여행자와 현지 친구를 연결하는 rululala를 만들고 있습니다.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Project
+
+### [rululala](https://github.com/HEEJIHOON/rululala)
+
+도시를 둘러보고, 관심사가 맞는 현지 친구를 찾아 여행의 새로운 경험을 만들어 가는 서비스입니다.
+현재 프로토타입을 개발하고 있습니다.
+
+[서비스 둘러보기](https://heejihoon.github.io/rululala/) · [소스 코드](https://github.com/HEEJIHOON/rululala) · [디자인 가이드](https://github.com/HEEJIHOON/rululala/blob/main/design.md)
